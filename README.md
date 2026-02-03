@@ -1,4 +1,4 @@
-Desenvolvido por <strong>Eduardo Cruz</strong>
+<strong>Eduardo Cruz</strong>
 
 <span>Redes sociais:</span>
 
